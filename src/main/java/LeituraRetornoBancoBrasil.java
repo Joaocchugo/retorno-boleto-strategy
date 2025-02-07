@@ -1,20 +1,16 @@
 import java.io.IOException;
 import java.io.UncheckedIOException;
-import java.net.URI;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.nio.file.Paths;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
 public class LeituraRetornoBancoBrasil implements LeituraRetorno {
     @Override
-    public List<Boleto> lerArquivo(final URI caminhoArquivo) {
+    public List<Boleto> lerArquivo(final Path caminhoArquivo) {
         try {
-            var listaLinhas = Files.readAllLines(Paths.get(caminhoArquivo));
+            var listaLinhas = Files.readAllLines(caminhoArquivo);
             final var listaBoletos = new ArrayList<Boleto>();
 
             for (String linha : listaLinhas) {

@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26b11f37-3bea-49b6-8a4c-03de6b116e4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/banco-brasil-1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bradesco-1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Boleto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeituraRetorno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeituraRetornoBancoBrasil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LeituraRetornoBradesco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ProcessarBoletos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeituraRetorno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeituraRetorno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeituraRetornoBancoBrasil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeituraRetornoBancoBrasil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LeituraRetornoBradesco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/LeituraRetornoBradesco.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ProcessarBoletos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ProcessadorBoletos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +191,7 @@
       <workItem from="1708344762094" duration="6925000" />
       <workItem from="1708945979834" duration="3663000" />
       <workItem from="1709551029326" duration="1794000" />
-      <workItem from="1738950319375" duration="1120000" />
+      <workItem from="1738950319375" duration="1875000" />
     </task>
     <servers />
   </component>
